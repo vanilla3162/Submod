@@ -1,0 +1,10 @@
+Hi!
+Thank you so much for downloading my first submod!I would love to hear your feedback and suggestions.
+If you see any errors in the game, please report them to me.
+Enjoy :)
+
+How to install:
+Drag the "poemwriting" folder into the "game" folder in the root DDLC directory.
+
+
+Bye!!
